@@ -11,3 +11,5 @@ step 3 : Create some content and save
 step 4 : Add and commit content to staging area
 step 5 : push changes to remote repo via git push
 
+## End of workflow
+
